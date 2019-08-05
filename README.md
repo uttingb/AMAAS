@@ -22,5 +22,5 @@ An introduction to R/ R Studio
 
 "ggplot2" is used for visualizing data. It provides a set of highly customizable tools for creating excellent graphics.
 
-AMAAS was conceived by Dr. Jaap Saers (a postdoctoral research studying trabecular bone) and myself. If you have any questions, please don't hesitate to send me an email at bju23[at]cam.ac.uk :smiley:
+AMAAS was conceived by Dr. Jaap Saers (a postdoctoral researcher studying trabecular bone) and myself. If you have any questions, please don't hesitate to send me an email at bju23[at]cam.ac.uk :smiley:
 
